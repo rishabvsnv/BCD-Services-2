@@ -3767,7 +3767,8 @@ hr {
   line-height: 42px;
   font-weight: 300;
 }
-.header-caption .header-action-button {
+
+/* .header-caption .header-action-button {
   display: block;
   margin: 40px 0;
 }
@@ -3907,7 +3908,7 @@ hr {
     display: block;
     margin: 0 auto;
   }
-}
+} */
 .site-main p {
   font-size: 14px;
   line-height: 26px;
